@@ -1,0 +1,5 @@
+Binary Searc Tree
+
+Root 5'tir. 5 in solunda 3, sağında 7 bulunur. 
+Sol(küçük taraf)=3'ün solunda 1, sağında 4 bulunur. 1'in solunda 0, sağında 2 bulunur.
+Sağ(büyük taraf)=7'nin solunda 6,sağında 9 bulunur. 9'un solunda 8 bulunur.
